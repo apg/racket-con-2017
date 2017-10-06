@@ -1,6 +1,7 @@
 #lang slideshow/simple
 
 Simplifying Slideshow for DWIM Presentations that Stick, Quick
+# Simplifying Slideshow for DWIM Presentations that Stick, Quick
 
 Hi, I’m Andrew.
 # Hi, I'm Andrew.
